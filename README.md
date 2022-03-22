@@ -1,0 +1,1 @@
+# dotcore-dashboard Helm Chart
